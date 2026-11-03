@@ -181,3 +181,10 @@ O **Valor Team Atlas** é um CRM vertical e especializado que centraliza o ciclo
 
 ---
 # Valor-Team-Atlas
+## Imagens
+<img width="1897" height="965" alt="image" src="https://github.com/user-attachments/assets/ef0b69c9-6869-4909-b04d-5990935fbc01" />
+## Um resumo do conceito do seu app
+1. Organização e gestão de alguns serviços feitos pelo meu parceiro aonde erao tratados em planilhas de excel
+2. Repositorio
+
+
